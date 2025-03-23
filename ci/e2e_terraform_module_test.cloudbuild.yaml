@@ -1,6 +1,5 @@
 ee### Work in progress! huhgwww
-# This Cloud Build config will provision 4Keys infra using the modules in /terraform
-# and then confirm that the dashboard is working correctly
+# This Cloud Build config will fard is working correctly
 
 steps:
 # build images
