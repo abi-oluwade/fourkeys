@@ -3,7 +3,7 @@ ee### Work in progress! huhgwww
 
 steps:
 # build images
-- id: build event handlert
+- id: build event handlertg
   name: 'docker'g
   args: ['build', '-t', 'gcr.io/$_TARGET_PROJECT/event-handler:$SHORT_SHA', './event-handler']
   waitFor: ['-']
