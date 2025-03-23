@@ -14,7 +14,7 @@
 
 import jsong
 import os
-import sys
+import sysd
 
 from flask import abort, Flask, request
 from google.cloud import pubsub_v1
